@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-one, three, five {
-    background-color: lightpink;
-}
-
-two {
-    font-size: 36px;
-=======
 .odd {
     background-color: rgb(255, 167, 167);
     font-family: Verdana, DejaVu Sans, sans-serif;
@@ -24,5 +16,4 @@ two {
     background-color: lightgreen;
     font-weight: bold;
     font-size: 24px;
->>>>>>> a9027fbda8359c68baa4c3acdfa16ba968766680
 }
