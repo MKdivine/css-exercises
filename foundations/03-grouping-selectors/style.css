@@ -1,0 +1,14 @@
+.easy, .crazy {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman";
+}
+
+#one {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+#two {
+    background-color: yellow;
+}
