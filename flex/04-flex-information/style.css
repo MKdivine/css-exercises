@@ -7,13 +7,47 @@ img {
   height: 100px;
 }
 
+
+/* my solution so far... */
+.container {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  gap: 52px;
+  flex-wrap: wrap;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 200px;
+  flex-wrap: wrap;
+}
+
+.text {
+  text-align: center;
+  display: inline;
+}
+
+
+
+
 .title {
   font-size: 32px;
   font-weight: 900;
+<<<<<<< HEAD
   display: flex;  
   justify-content: center;
   align-items: center;
   padding-bottom: 32px;
+=======
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 32px;
+ 
+>>>>>>> c14ab3470093f8e97f5e22215bfca540fb27923d
 }
 
 /* do not edit this footer */

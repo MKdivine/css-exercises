@@ -32,15 +32,15 @@ body {
   font-weight: 900;
   font-style: italic;
   padding: 8px;
-  display: flex;
+
 
 }
 
 #right {
   display: flex;
-  align-items: center;
+  /* align-items: center; */
   margin-left: auto;
-  justify-items: space-between;
+  /* justify-items: space-between; */
   gap: 8px;
 }
 
