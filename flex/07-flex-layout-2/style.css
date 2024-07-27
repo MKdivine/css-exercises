@@ -49,20 +49,22 @@ body {
   height: 72px;
   background: #eee;
   color: darkmagenta;
-  
-
+  display: flex;
+justify-content: center;
+align-items: center;
+height: 200px;
 }
 
 .content {
   display: flex;
   flex-direction: row;
+  justify-content: space-around;
 
 }
 
 
 .itemF {
-  margin-top: 25px;
-  padding: 0;
+  margin: 20px;
   justify-content: center;
   align-items: center;
   display: flex;
@@ -87,8 +89,8 @@ body {
 .contentBody .content {
   background: #f1f6f5;
   flex-wrap: wrap;
-  padding: 20px;
-  margin: 5px;
+  padding: 0 auto;
+  margin: 50px;
   gap: 4px;
 
 }
